@@ -44,7 +44,7 @@ end
 # group :development do
   gem 'will_paginate-bootstrap4'
   gem 'noty-rails'
-  gem 'sidekiq', '~> 4.1', '>= 4.1.2'
+  gem 'sidekiq', '~> 5.2'
   gem 'redis', '~> 3.0'
   gem 'omniauth'
   gem 'omniauth-linkedin-oauth2'
